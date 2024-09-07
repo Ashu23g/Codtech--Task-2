@@ -1,8 +1,9 @@
-Name: ASHUTOSH GOYAL
-Company: CODTECH IT SOLUTIONS
-ID: CT6WDS1538
-Domain: CYBER SECURITY AND ETHICAL HACKING
-Duration: Aug to Sep 2024
+Name: ASHUTOSH GOYAL,  
+Company: CODTECH IT SOLUTIONS,  
+ID: CT6WDS1538 ,  
+Domain: CYBER SECURITY AND ETHICAL HACKING,  
+Duration: Aug to Sep 2024,  
+
 # Codtech--Task-2
 Codtech Internship Task 2 - "Malware Analysis Sandbox"
 ### Project Overview: Malware Analysis Sandbox
